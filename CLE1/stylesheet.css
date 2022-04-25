@@ -1,0 +1,66 @@
+
+    body {
+        background-image: url(backgroundsol.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+  <style>
+       #wrapper {
+        width: 900px;
+        height: 600px;
+        margin: 15px;
+        padding: 40px;
+        float: center;
+ 
+    }
+    
+    #wrapper #h1 {
+        padding: 40px;
+        font-size: 45;
+        font-weight: italic;
+    }
+
+    img {
+        margin-left: 10px;
+    }
+
+    b {
+        margin-left: 90;
+    }
+    h3 {
+       margin-top: 5px;
+       margin-left: 90;
+       font color: black;
+    }
+
+    h4 {
+        text-align: center;
+    }
+    
+    p{
+        font-style:bold;
+        font-size: 20px;
+        font color: black;
+        text-align: center;
+        text-indent: 30px;
+    }
+       #wrapper #box-one,
+       #wrapper #box-two,
+       #wrapper #box-three,
+       #wrapper #box-four,
+       #wrapper #box-five,
+       #wrapper #box-six,
+       #wrapper #box-seven,
+       #wrapper #box-eight,
+       #wrapper #box-nine,
+       #wrapper #box-ten {
+        width: 500;
+        height: 400;
+        padding: 5px;
+        border: 5px solid magenta;
+        margin: 15px;
+        float: center;
+        font-size: 25px;
+    }
